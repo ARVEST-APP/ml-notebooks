@@ -1,0 +1,14 @@
+venv
+sources
+output
+models
+*.DS_Store
+.ipynb_checkpoints
+OLD
+*todo.md
+*login_private.json
+*_TEMP
+*.npy
+
+_colab/arvest/_iiif-manifest-creation
+_local/arvest/_iiif-manifest-creation
