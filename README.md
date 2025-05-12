@@ -1,10 +1,10 @@
-![ml-notebooks](https://raw.githubusercontent.com/arvest-data-in-context/ml-notebooks/refs/heads/main/docs/images/main-title-card.png)
+![ml-notebooks](https://raw.githubusercontent.com/ARVEST-APP/ml-notebooks/refs/heads/main/docs/images/main-title-card.png)
 
 This is a collection of python notebooks that perform common tasks and demonstrate methods and workflows used in the digital humanities. 
 - They can be run either online in [Google Colab](https://colab.research.google.com/) or locally with tools like [JupyterLab](https://jupyter.org/) or [vs code](https://code.visualstudio.com/).
 - They are also designed to work with [Arvest](https://arvest.app), a free to use web app that allows you to store your corpora online and view and share the results of machine learning processes.
 
-**⚠️ Please note that these notebooks are pedagogical in tone and configuration. If you are looking for notebooks where all you need to do is drop your media and press play, please visit the [Arvest API Tools](https://github.com/arvest-data-in-context/arvest-api-tools) repo which is designed as a collection of functional tools that follow many of these same workflows.**
+**⚠️ Please note that these notebooks are pedagogical in tone and configuration. If you are looking for notebooks where all you need to do is drop your media and press play, please visit the [Arvest API Tools](https://github.com/ARVEST-APP/arvest-api-tools) repo which is designed as a collection of functional tools that follow many of these same workflows.**
 
 1. [Usage](#1-using-the-notebooks)
 2. [Content Map](#2-content-map)
@@ -22,7 +22,7 @@ Either click on the direct links to open a notebook given in this documentation,
 
 1. Go to [Google Colabs](https://colab.research.google.com/).
 
-2. `File` > `Open notebook` > `GitHub` > Paste the url of this repo (`https://github.com/arvest-data-in-context/ml-notebooks`).
+2. `File` > `Open notebook` > `GitHub` > Paste the url of this repo (`https://github.com/ARVEST-APP/ml-notebooks`).
 
 3. Choose a notebook to run.
 
